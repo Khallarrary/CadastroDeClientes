@@ -22,6 +22,7 @@ Senha: admin
 As senhas são armazenadas de forma segura utilizando SHA-256, garantindo que não fiquem expostas em texto puro.
 
 🏗️ Melhorias Futuras
+
 🔹 Integração do sistema de autenticação com o banco de dados (MySql)
 
 🔹 Interface gráfica com WPF ou React + Electron
